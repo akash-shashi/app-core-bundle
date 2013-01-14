@@ -10,7 +10,9 @@ import com.day.cq.wcm.api.Page;
  * 
  */
 public class HelloPerson {
-
+	/**
+	 * test-comment
+	 */
 	private Page personPage;
 	public static final String PN_PERSON_NAME = "personName";
 
