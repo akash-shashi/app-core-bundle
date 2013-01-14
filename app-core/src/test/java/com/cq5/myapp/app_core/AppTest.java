@@ -11,7 +11,7 @@ public class AppTest
     extends TestCase
 {
     /**
-     * Create the test case
+     * Create the test case for Cq5 application
      *
      * @param testName name of the test case
      */
